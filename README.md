@@ -13,8 +13,6 @@ A health utility tool that calculates Body Mass Index (BMI) based on user weight
 - **Conditional Formatting:** Mapping specific ranges of numeric values to UI styles and text.
 - **Responsive Design:** A clean, card-based layout suitable for mobile and desktop.
 
-## 🧠 BCA Concept Highlight
-This project demonstrates **Data Interpretation**. It shows how to translate raw numeric data (BMI score) into meaningful information (Health Status) using range-based conditional statements.
 
----
-Developed by [Your Name]
+
+
